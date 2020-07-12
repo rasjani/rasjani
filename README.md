@@ -5,4 +5,5 @@
 * 10.02.2020 - [Speeding up C++ Build Pipelines.](https://rasjani.github.io/2020/02/10/speeding-up-cpp-pipelines.html)
 * 01.02.2020 - [Benefits of using virtual environments](https://rasjani.github.io/2020/02/01/benefits-of-venvs.html)
 
-More in the [blog](http://rasjani.github.io)
+
+More posts @ [blog](https://rasjani.github.io)
