@@ -9,8 +9,11 @@
 More posts @ [blog](https://rasjani.github.io)
 
 
-<p align="center">
+<p>
   <a href="https://github.com/rasjani"><img src="https://img.shields.io/github/followers/rasjani.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://github.com/sponsors/rasjani"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
   <a href="https://www.linkedin.com/in/mikkonenjani"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+<p>
+<a href="https://stackexchange.com/users/37907"><img src="https://stackexchange.com/users/flair/37907.png" width="208" height="58" alt="profile for rasjani on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for rasjani on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
