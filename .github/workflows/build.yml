@@ -27,7 +27,7 @@ jobs:
       env:
         TEST_TOKEN: ${{ secrets.TEST_TOKEN }}
       run: |
-        python build.py > README.md
+        python build.py
         cat README.md
     - name: Commit and push if changed
       run: |-
