@@ -1,0 +1,6 @@
+### Latests posts
+{% for post in posts -%}
+* {{ post["date"] }} - [{{ post["title"] }}]({{ post["link"] }})
+{% endfor %}
+
+More posts @ [blog]({{ blogurl }})
