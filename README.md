@@ -1,9 +1,9 @@
 ### Latests posts
+* 27.08.2020 - [Python Woes On Windows Land](https://rasjani.github.io/2020/08/27/python-woes-on-windows-land.html)
 * 15.07.2020 - [Foray into GitHub actions](https://rasjani.github.io/2020/07/15/foray-into-github-actions.html)
 * 04.07.2020 - [How I use Invoke on few of my projects](https://rasjani.github.io/2020/07/04/how-i-use-invoke.html)
 * 18.06.2020 - [Using Windows Git as remote visual studio environment](https://rasjani.github.io/2020/06/18/remote-git-bash-vs.html)
 * 10.02.2020 - [One Good Reason ..](https://rasjani.github.io/2020/02/10/one-good-reason.html)
-* 10.02.2020 - [Speeding up C++ Build Pipelines.](https://rasjani.github.io/2020/02/10/speeding-up-cpp-pipelines.html)
 
 
 More posts @ [blog](https://rasjani.github.io)
