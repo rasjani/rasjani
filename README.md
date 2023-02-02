@@ -1,9 +1,9 @@
 ### Latests posts
+* 24.01.2023 - [(More) Stuff you should know about Python part 2](https://rasjani.github.io/2023/01/24/more_stuff_you_should_know_about_python.html)
+* 18.01.2023 - [Stuff you should know about Python part 1](https://rasjani.github.io/2023/01/18/stuff_you_should_know_about_python.html)
 * 14.12.2022 - [No More Community Support](https://rasjani.github.io/2022/12/14/no-no-community-support.html)
 * 27.08.2020 - [Python Woes On Windows Land](https://rasjani.github.io/2020/08/27/python-woes-on-windows-land.html)
 * 15.07.2020 - [Foray into GitHub actions](https://rasjani.github.io/2020/07/15/foray-into-github-actions.html)
-* 04.07.2020 - [How I use Invoke on few of my projects](https://rasjani.github.io/2020/07/04/how-i-use-invoke.html)
-* 18.06.2020 - [Using Windows Git as remote visual studio environment](https://rasjani.github.io/2020/06/18/remote-git-bash-vs.html)
 
 
 More posts @ [blog](https://rasjani.github.io)
