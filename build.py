@@ -12,7 +12,7 @@ def format_date(ts):
     return f"{ts.tm_mday:02}.{ts.tm_mon:02}.{ts.tm_year}"
 
 
-with Path("README.template").open("r") as f:
+with Path("README.template").open("r", encoding="utf-8") as f:
     template = jinja2.Template(f.read())
 
 feed = feedparser.parse(FEED)
@@ -28,5 +28,5 @@ posts = list(
 )
 
 
-with Path("README.md").open("w") as f:
+with Path("README.md").open("w", encoding="utf-8") as f:
     f.write(template.render(blogurl=BLOGURL, posts=posts))
